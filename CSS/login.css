@@ -1,0 +1,32 @@
+@charset "utf-8";
+body {
+  background-image: url("../img/position.jpg");
+}
+header, section, footer {
+  border:1px solid #999999;
+  padding: 10px 10px 10px 10px;
+  background:#ffffff;
+}
+#site {
+  margin: 20px auto;
+  width : 800px;
+  height: 600px;
+
+}
+header {
+  margin: 0px 0px 0px 0px;
+  height: 80px;
+  width: 1000px;
+}
+section {
+  margin: 0px 0px 0px 0px;
+  height: 700px;
+  width: 1000px;
+
+}
+footer {
+  margin: 0px 0px 0px 0px;
+  clear: both;
+  height: 54px;
+  width: 1000px;
+}
